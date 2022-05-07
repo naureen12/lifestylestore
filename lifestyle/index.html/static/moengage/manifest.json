@@ -1,0 +1,11 @@
+{
+  "icons": [
+    {
+      "src": "https://moengagewebsdk.imgix.net/images/favicon.png",
+      "sizes": "192x192"
+    }
+  ],
+  "name": "Max_INDMoeTest",
+  "short_name": "Max_INDMoeTest",
+  "display": "standalone"
+}
